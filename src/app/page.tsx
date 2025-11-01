@@ -143,7 +143,7 @@ export default function Home() {
             viewport={{ once: true }}
             className="text-sm text-accent-muted"
           >
-            © 2025 Shambhavi's Theatre. A premium streaming experience.
+            © 2025 Openflix. A premium streaming experience.
           </motion.p>
         </div>
       </footer>
