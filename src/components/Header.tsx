@@ -67,7 +67,7 @@ export default function Header() {
                 className="text-2xl md:text-3xl font-light tracking-tight cursor-pointer relative"
               >
                 <span className="bg-gradient-to-r from-white via-crimson-400 to-crimson-500 bg-clip-text text-transparent">
-                  Shambhavi's Theatre
+                  Openflix
                 </span>
               </motion.h1>
             </Link>
